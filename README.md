@@ -14,6 +14,8 @@
 | [Livre dont vous êtes le héros](https://github.com/yann-madry/livre-dont-vous-etes-le-heros) | Éditeur et lecteur de livres-jeux, avec vérification de cohérence et export web | C++, Qt Widgets |
 | [Quiz de géographie](https://github.com/yann-madry/quiz-geographie-france) | Quiz interactif sur les départements de France, carte SVG et six modes de jeu | Java, Processing |
 
+**En cours :** un jeu vidéo (Godot 4, GDScript). Le sujet reste confidentiel pour l'instant, le dépôt est privé.
+
 ## Compétences
 
 - **Web** : HTML, CSS, JavaScript, PHP
