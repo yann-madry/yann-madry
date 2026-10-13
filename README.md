@@ -4,7 +4,7 @@
 
 **Je cherche un stage en développement du 12 avril au 10 juin 2027.**
 
-[Mon portfolio](https://yann-madry.github.io) · [LinkedIn](https://www.linkedin.com/in/yann-madry)
+[Mon portfolio](https://yann-madry.github.io) · [LinkedIn](https://www.linkedin.com/in/yann-madry-04354a3b1)
 
 ## Projets
 
